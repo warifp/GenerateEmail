@@ -18,6 +18,15 @@ echo "                    || Github   : https://github.com/warifp\r\n";
 echo "                    || \r\n";
 echo "========================================================================\r\n";
 
+
+echo "
+########################################
+Jangan lupa donasi!\n
+> Paypal : paypal.me/wahyuarifpurnomo\n
+> OVO\t: 087719090011\n
+Terimakasih banyak yang sudah donasi :')
+########################################\n\n";
+
 class wahyuarifp
 {
 	function __construct()
